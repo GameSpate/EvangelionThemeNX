@@ -1,4 +1,4 @@
-Theme v1.0.0                                               ║
+Theme v1.0.1                                               ║
 Released 8/13/2020                                         ║
                                                            ║
                                                            ║
@@ -9,6 +9,18 @@ Working on:                                                ║
 - SwitchThemeInjector Version 4.5 (Released July 18, 2020) ║
 ═══════════════════════════════════════════════════════════╝
         
+╭─────────╮
+│Changelog│
+╰─────────╯
+
+- Color correction on AllApps.nxtheme
+     ⤷ The sand was too washed out, so it didn't look very nice and it made the button icons at the bottom hard to see.
+
+- Added a second bundled theme: 'NoFooter'
+     ⤷ Requested by u/coinkillerl
+          ⤷ https://www.reddit.com/r/NXThemes/comments/i8wuyc/evangelion_theme_pack_link_in_comments/g1c8a77
+
+
 Thanks for checkin' out my theme :D
 
 ┌────────────────────────╖
@@ -31,6 +43,8 @@ Thanks for checkin' out my theme :D
 - (OPTIONAL) FuryBaguette's SwitchLayoutEditor
      ⤷ https://github.com/FuryBaguette/SwitchLayoutEditor/releases/
           ⤷ To make custom layouts (I'll play with this one soon and maybe a v2.0.0 will have custom layouts)
+               ⤷ UPDATE: The documentation for this stuff is practically non-existent. That or I just
+                         can't find anything useful. This probably won't happen but we'll see.
 
 ╭─────────────╮
 │INSTRUCTIONS:│
@@ -45,13 +59,13 @@ Thanks for checkin' out my theme :D
 
 Assuming you already CLOSELY followed the installation instructions for the SwitchThemesInstaller .nro...
 
-1. Drag and drop the folder containing the *.nxtheme files into your 'themes' folder at the root of your SD Card. This folder should be named 'EvaThemeV1.0.0 - by GameSpate'
+1. Drag and drop the folder containing the *.nxtheme files into your 'themes' folder at the root of your SD Card. This folder should be named 'EvaThemeV1.0.1 - by GameSpate'
 
 2. Boot your Switch into CFW and get into the SwitchThemesInstaller.nro in your HBMenu
 
 3. Uninstall any themes you may have had previously to prevent any issues. (No need to reboot just yet)
 
-4. Go to 'Themes' and navagate to the folder named 'EvaThemeV1.0.0 - by GameSpate'
+4. Go to 'Themes' and navagate to the folder named 'EvaThemeV1.0.1 - by GameSpate' and choose wether you want a footer or not.
 
 5. Press 'Y' to start multiselect and press 'A' to add to the selection
 
