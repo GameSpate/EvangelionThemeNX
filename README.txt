@@ -1,14 +1,14 @@
-Theme v1.0.0                                       ║
-Released 8/13/2020                                 ║
-                                                   ║
-                                                   ║
-Working on:                                        ║
-                                                   ║
-- Firmware Ver. 10.1.0 (Distributed July 13, 2020) ║
-- Atmosphère 0.13.0 (Released June 15, 2020)       ║
-- SwitchThemeInjector Version 4.5                  ║
-═══════════════════════════════════════════════════╝
-
+Theme v1.0.0                                               ║
+Released 8/13/2020                                         ║
+                                                           ║
+                                                           ║
+Working on:                                                ║
+                                                           ║
+- Firmware Ver. 10.1.0 (Distributed July 13, 2020)         ║
+- Atmosphère 0.13.0 (Released June 15, 2020)               ║
+- SwitchThemeInjector Version 4.5 (Released July 18, 2020) ║
+═══════════════════════════════════════════════════════════╝
+        
 Thanks for checkin' out my theme :D
 
 ┌────────────────────────╖
@@ -45,13 +45,13 @@ Thanks for checkin' out my theme :D
 
 Assuming you already CLOSELY followed the installation instructions for the SwitchThemesInstaller .nro...
 
-1. Drag and drop the folder containing the *.nxtheme files into your 'themes' folder at the root of your SD Card. This folder should be named 'EvaThemeV1_0_0 - by GameSpate'
+1. Drag and drop the folder containing the *.nxtheme files into your 'themes' folder at the root of your SD Card. This folder should be named 'EvaThemeV1.0.0 - by GameSpate'
 
 2. Boot your Switch into CFW and get into the SwitchThemesInstaller.nro in your HBMenu
 
 3. Uninstall any themes you may have had previously to prevent any issues. (No need to reboot just yet)
 
-4. Go to 'Themes' and navagate to the folder named 'EvaThemeV1_0_0 - by GameSpate'
+4. Go to 'Themes' and navagate to the folder named 'EvaThemeV1.0.0 - by GameSpate'
 
 5. Press 'Y' to start multiselect and press 'A' to add to the selection
 
